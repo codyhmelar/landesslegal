@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: ''
+banner_image: "/uploads/2018/02/17/bridge.jpg"
 layout: landing-page
 heading: Landess Legal
 partners: []
